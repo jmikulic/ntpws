@@ -1,0 +1,16 @@
+header {
+    background-image: url('../images/banner.jpg');
+    min-height: 700px;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    background-color: #fff;
+}
